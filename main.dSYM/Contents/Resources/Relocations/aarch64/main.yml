@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/saunfq/projects/kmms2026/busko/multilevel_menu/main'
+relocations:     []
+...
